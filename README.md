@@ -15,8 +15,4 @@ Apprentissage :
 
 
 
-Vous pouvez me contactez ici :
-![https://twitter.com/Phyes_]()
-
-
 ![Cover](https://github.com/PhyesGG/PhyesGG/blob/main/1500x500.jfif)
