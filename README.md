@@ -16,6 +16,7 @@ Apprentissage :
 
 
 Vous pouvez me contactez ici :
-![link](https://twitter.com/Phyes_)
+![link](https://twitter.com/Phyes_)(![https://user-images.githubusercontent.com/79931128/147390379-67ff5d05-6017-4101-8f0c-de0c72574e96.png]
+)
 
 ![Cover](https://github.com/PhyesGG/PhyesGG/blob/main/1500x500.jfif)
