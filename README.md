@@ -16,7 +16,7 @@ Apprentissage :
 
 
 Vous pouvez me contactez ici :
-![link](https://guillaume-richard.fr/wp-content/uploads/2020/08/Octocat-github.png)
+![https://twitter.com/Phyes_]()
 
 
 ![Cover](https://github.com/PhyesGG/PhyesGG/blob/main/1500x500.jfif)
