@@ -25,7 +25,7 @@ Based in Paris 🇫🇷
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=PhyesGG&theme=react&border=7F3FBF&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
+![GitClear Stats](https://www.gitclear.com/chart_img/PhyesGG)
 
 ---
 
