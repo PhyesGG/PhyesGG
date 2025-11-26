@@ -25,10 +25,7 @@ Based in Paris 🇫🇷
 ---
 
 ## 📊 GitHub Stats
-
-![Phyesland's Github Stats](https://github-readme-stats.vercel.app/api?username=PhyesGG&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![Phyesland's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhyesGG&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+![GitHub Streak](https://streak-stats.demolab.com/?user=PhyesGG&theme=react&border=7F3FBF&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
 
 ---
 
