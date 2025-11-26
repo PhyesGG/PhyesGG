@@ -25,9 +25,7 @@ Based in Paris 🇫🇷
 ---
 
 ## 📊 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=PhyesGG&color=7F3FBF&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/PhyesGG?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/PhyesGG?style=social)
+![trophy](https://github-profile-trophy.vercel.app/?username=PhyesGG&theme=darkhub&no-frame=true&row=1&column=7)
 
 ---
 
