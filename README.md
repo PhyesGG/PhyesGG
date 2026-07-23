@@ -25,7 +25,10 @@
 <hr>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhyesGG&show_icons=true&hide_border=true&bg_color=00000000&text_color=8b949e&title_color=e8e6df&icon_color=e8e6df&ring_color=e8e6df" alt="stats" height="160">
+  <img src="assets/metrics.svg" alt="metrics" width="100%">
+</div>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=PhyesGG&hide_border=true&background=00000000&stroke=8b949e&ring=e8e6df&fire=e8e6df&currStreakLabel=8b949e&currStreakNum=e8e6df&sideNums=e8e6df&sideLabels=8b949e&dates=6a6863" alt="streak" height="160">
 </div>
 
@@ -37,8 +40,6 @@
 </picture>
 
 <h3><code>$ stack --most-used</code></h3>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhyesGG&layout=compact&hide_border=true&bg_color=00000000&text_color=8b949e&title_color=e8e6df&langs_count=8" alt="langs" width="420">
 
 <p>TypeScript &amp; JavaScript for the bots, Python for the agents,<br>
 Nix for the machines — and whatever it takes for the rest.</p>
