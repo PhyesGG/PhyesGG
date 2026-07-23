@@ -15,7 +15,7 @@
   <li>❄️ <a href="https://github.com/PhyesGG/NixConfig"><b>NixConfig</b></a> — my machines are declarative, my sleep schedule isn't</li>
   <li>🛠️ chronic <a href="https://github.com/codecrafters-io/build-your-own-x"><i>build-your-own-x</i></a> enjoyer — why install it when you can rebuild it?</li>
   <li>📖 always one volume of <i>Shamo</i> within reach</li>
-  <li>🧪 currently: an autonomous agent is learning League of Legends in my homelab <code>(¬‿¬)</code></li>
+  <li>🧪 currently: running an org of <b>13 AI agents</b> in my homelab — 3 departments, a lead agent per department, and their reports landing on my desk <code>(¬‿¬)</code></li>
 </ul>
 
 <blockquote>Most of the interesting stuff runs self-hosted, so the graphs below only tell half the story.</blockquote>
