@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/scene_hero.png" width="100%" alt="le perso marche sous une pluie d'ivoire, croissant de lune, ciel cobalt — TRAME · OUTREMER">
+  <img src="assets/scene_hero.png" width="100%" alt="le perso marche sous une pluie d'ivoire, croissant de lune, ciel cobalt — OUTREMER">
 </div>
 
 <picture>
@@ -64,5 +64,5 @@ and whatever it takes for the rest.</p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhyesGG&bg_color=00000000&color=8b949e&line=E9DFC6&point=EDBB00&area=true&area_color=1a2a66&hide_border=true" alt="activity" width="100%">
 
 <div align="center">
-  <img src="assets/etoile.png" width="16" alt=""> <sub>character &amp; artwork: original work, TRAME · OUTREMER — <b>Phyes</b></sub>
+  <img src="assets/etoile.png" width="16" alt=""> <sub>character &amp; artwork: original work, OUTREMER — <b>Phyes</b></sub>
 </div>
