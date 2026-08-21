@@ -1,6 +1,10 @@
+<div align="center">
+  <img src="assets/scene_hero.png" width="100%" alt="le perso marche sous une pluie d'ivoire, croissant de lune, ciel cobalt — TRAME · OUTREMER">
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero_dark.png">
-  <img align="left" src="assets/hero_light.png" width="400" alt="le perso en squat — chaîne en or, montre, t-shirt éclaboussé, tomes de Shamo contre la jambe">
+  <img align="left" src="assets/hero_light.png" width="400" alt="le perso en squat — chaîne en or, montre, t-shirt éclaboussé cobalt, tomes de Shamo">
 </picture>
 
 <h1>Phyes</h1>
@@ -22,17 +26,17 @@
 
 <br clear="left">
 
-<hr>
+<img src="assets/divider.png" width="100%" height="14" alt="">
 
 <div align="center">
   <img src="assets/metrics.svg" alt="metrics" width="100%">
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PhyesGG&hide_border=true&background=00000000&stroke=8b949e&ring=e8e6df&fire=e8e6df&currStreakLabel=8b949e&currStreakNum=e8e6df&sideNums=e8e6df&sideLabels=8b949e&dates=6a6863" alt="streak" height="160">
+  <img src="https://streak-stats.demolab.com?user=PhyesGG&hide_border=true&background=00000000&stroke=8b949e&ring=4B64D8&fire=EDBB00&currStreakLabel=8b949e&currStreakNum=E9DFC6&sideNums=E9DFC6&sideLabels=8b949e&dates=6a6863" alt="streak" height="160">
 </div>
 
-<hr>
+<img src="assets/divider.png" width="100%" height="14" alt="">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dev_dark.png">
@@ -41,23 +45,24 @@
 
 <h3><code>$ stack --most-used</code></h3>
 
-<p>TypeScript &amp; JavaScript for the bots, Python for the agents,<br>
-Nix for the machines — and whatever it takes for the rest.</p>
+<p>TypeScript &amp; JavaScript for the bots, Python for the agents<br>
+and the little watchers, Nix for the machines —<br>
+and whatever it takes for the rest.</p>
 
 <br clear="right">
 
-<hr>
+<img src="assets/divider.png" width="100%" height="14" alt="">
 
 <div align="center">
-  <img src="assets/spin.gif" width="290" alt="le perso en 3D qui tourne, tramé image par image">
+  <img src="assets/spin.gif" width="280" alt="le perso en 3D qui tourne, tramé image par image">
   <br>
-  <sub>hand-built 3D, halftone-dithered frame by frame — same trame as everything else here</sub>
+  <sub>hand-built 3D, halftone-dithered frame by frame — même trame, nouvelles encres</sub>
 </div>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PhyesGG&bg_color=00000000&color=8b949e&line=e8e6df&point=e8e6df&area=true&area_color=30363d&hide_border=true" alt="activity" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PhyesGG&bg_color=00000000&color=8b949e&line=E9DFC6&point=EDBB00&area=true&area_color=1a2a66&hide_border=true" alt="activity" width="100%">
 
 <div align="center">
-  <sub>character &amp; artwork: original 1-bit dither work — <b>Phyes</b></sub>
+  <img src="assets/etoile.png" width="16" alt=""> <sub>character &amp; artwork: original work, TRAME · OUTREMER — <b>Phyes</b></sub>
 </div>
