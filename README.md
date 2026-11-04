@@ -7,18 +7,13 @@
 
 Bots, agents & self-hosted things — Paris.
 
-**Projects**
+**Now** — infrastructure & production at [Yokkai Collec'](https://github.com/Yokkai-Collec) ([yokkai-collec.com](https://yokkai-collec.com/)), a digital collectible card game.
+Self-hosted stack (Next.js, Supabase, Coolify), audits, monitoring and alerting for a live game with real players.
 
-- [AGC-BOT](https://github.com/PhyesGG/AGC-BOT) — Discord bot, Twitch alerts
-- [LKL-BOT](https://github.com/PhyesGG/LKL-BOT) — Discord bot, tickets
-- [BeatsClash](https://github.com/PhyesGG/BeatsClash) — music battles between friends
-- [NixConfig](https://github.com/PhyesGG/NixConfig) — declarative config for my machines
-
-**Currently** — running an org of 13 AI agents in my homelab.
-
-**Stack** — TypeScript, JavaScript, Python, Nix.
-
-**Contact** — [phyespro@gmail.com](mailto:phyespro@gmail.com)
+**Before** — worked for [RFT.GG](https://rft.gg/) ([news](https://rft.gg/news)), esports news & investigations.
+Built their newsroom tracking bot: 20+ sources watched around the clock (esports press, official
+league announcements, Korean media, company filings, contract databases), Asian-language titles
+translated by a local LLM, everything pushed to a single Discord channel.
 
 <br clear="right">
 
